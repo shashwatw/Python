@@ -75,6 +75,30 @@ p, q, r = (1, 2, 3)
 
 ### 1. Fruit List Creator
 
+(i) Method 1 (Without loops) :
+
+```python
+fruits = []
+f1 = input("Enter fruit name : ")
+fruits.append(f1)
+f2 = input("Enter fruit name : ")
+fruits.append(f2)
+f3 = input("Enter fruit name : ")
+fruits.append(f3)
+f4 = input("Enter fruit name : ")
+fruits.append(f4)
+f5 = input("Enter fruit name : ")
+fruits.append(f5)
+f6 = input("Enter fruit name : ")
+fruits.append(f6)
+f7 = input("Enter fruit name : ")
+fruits.append(f7)
+
+print(fruits)
+```
+
+(ii) Method 2 (Using loops)
+
 ```python
 fruits = []
 for i in range(7):
@@ -85,7 +109,7 @@ print(fruits)
 
 ### 2. Student Marks Sorter
 
-Method 1
+(i) Method 1 (Without loops) :
 
 ```python
 students = []
@@ -107,7 +131,7 @@ students.sort()
 print(students)
 ```
 
-Method 2 (using loop)
+(i) Method 2 (Using loops) :
 
 ```python
 students = []
