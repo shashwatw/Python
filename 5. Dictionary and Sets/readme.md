@@ -1,8 +1,5 @@
 # Python Dictionaries & Sets
 
-![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-
 A comprehensive guide to Python Dictionaries and Sets, including their properties, methods, and practical examples.
 
 ## 📋 Table of Contents
