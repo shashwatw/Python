@@ -172,8 +172,8 @@ Understanding the difference between empty dictionaries and sets.
 ```python
 empty_dict = {}        # Creates empty dictionary
 empty_set = set()      # Creates empty set
-print(type(empty_dict))  #
-print(type(empty_set))   #
+print(type(empty_dict))  # <class 'dict'>
+print(type(empty_set))   # <class 'set'>
 ```
 
 **Learning Point**: Empty curly braces create a dictionary, not a set
@@ -282,11 +282,3 @@ valid_set = {8, 7, 12, "Shashwat", (1, 2)}  # Using tuple
 3. Use set operations for data comparison
 4. Dictionary comprehension for creation
 5. Check membership using `in` operator
-
-## 🛠️ Setup
-
-```python
-# Quick Start
-empty_dict = {}          # Empty dictionary
-empty_set = set()        # Empty set (not {})
-```

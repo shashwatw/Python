@@ -18,7 +18,7 @@ name4 = input("Enter your name : ")
 lang4 = input("Enter your fav language : ")
 dictionary.update({name4 : lang4})
 
-print(dictionary)
+print(type(dictionary))
 
 
 # Important points
